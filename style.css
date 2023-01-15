@@ -1,0 +1,26 @@
+body{ width :1250px;
+      margin-left:auto;
+      margin-right:auto;
+      background-color:white;	  
+		}
+#header{
+	 text-align:center;  
+	 color:black;
+	 font-size:35;
+	 font-style:Klavika;
+	 background-color:eeeeee;
+}
+#season{
+	 font-style:Klavika;
+	 color:red;
+	 float:right;
+	 font-size:25;
+	 background-color:white;
+	 
+}
+#info{
+	 font-style:klavika;
+	 float:left;
+	 font-size:15;
+	
+}
